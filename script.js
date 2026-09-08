@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const typewriterElement = document.querySelector('.typewriter');
     
     const words = [
-        "CSE Junior @ UTArlington.",
+        "CSE Senior @ UTArlington.",
         "Software Developer.",
         "Data Enthusiast.",
         "Problem Solver."
